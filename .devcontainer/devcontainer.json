@@ -1,6 +1,7 @@
 {
   "name": "Php ddd example",
   "dockerComposeFile": "../docker-compose.yml",
+  "service": "mooc_backend_php",
   "workspaceFolder": "/app/php-ddd-example",
   "shutdownAction": "stopCompose"
 }
