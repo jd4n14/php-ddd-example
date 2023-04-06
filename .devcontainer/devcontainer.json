@@ -1,7 +1,6 @@
 {
   "name": "Php ddd example",
   "dockerComposeFile": "../docker-compose.yml",
-  "service": "php-ddd-example",
   "workspaceFolder": "/app/php-ddd-example",
   "shutdownAction": "stopCompose"
 }
